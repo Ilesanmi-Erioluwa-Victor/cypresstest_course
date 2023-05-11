@@ -1,0 +1,8 @@
+.goals {
+  max-width: 60rem;
+  margin: 3rem auto;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  padding: 1rem;
+}
